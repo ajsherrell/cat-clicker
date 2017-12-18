@@ -1,0 +1,19 @@
+#catList, p, div {
+  color: green;
+  font-size: 40px;
+}
+
+#catCount {
+	color: green;
+	font-size: 30px;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  height: 300px;
+  width: 400px;
+  border: solid 1px black;
+}
