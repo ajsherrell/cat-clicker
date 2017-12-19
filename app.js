@@ -42,8 +42,8 @@ $(document).ready(function() {
       return function() {
         var list = document.getElementById("catList");
         var image = document.getElementById("catDisplay");
-        list.innerHTML = "<ul><li>" + catCopy.catName + "</li></ul>"
-        image.innerHTML = "<img src='" + catCopy.catImage + "'>"
+        list.innerHTML = "<ul><li>" + catCopy.catName + "</li></ul>";
+        image.innerHTML = "<img src='" + catCopy.catImage + "'>";
         $('#catDisplay').on('click', (function() {
           catCopy.catCount++;
           var count = document.getElementById("catCount");
