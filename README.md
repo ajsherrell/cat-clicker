@@ -2,7 +2,9 @@
 Click pictures of cats.
 
 ## This app uses:
-- JavaScript with MVC method
+- JavaScript with MVC method 
+- HTML
+- CSS
 
 ![catclicker](https://user-images.githubusercontent.com/16841620/40665783-2665488a-632c-11e8-9d93-234da5923001.png)
 
